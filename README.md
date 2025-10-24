@@ -24,9 +24,7 @@ Terraform · Ansible · Bash · Python · JavaScript / TypeScript · Next.js · 
 ## 🐾 About Katun  
 Soy papá de un **xoloitzcuintle** llamado **Katun**, a quien quiero muchísimo. Me inspira a trabajar duro y disfrutar la vida.  
 Aquí está su foto al estilo *Studio Ghibli*:  
-![Katun](katun-ghibli.jpeg)  
-
-*(Sube la imagen `katun-ghibli.jpeg` a este repositorio para que se muestre correctamente.)*  
+![Katun](image.png)  
 
 ## 📊 GitHub Stats  
 ![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErnestoCobos&show_icons=true&hide_rank=true)  
@@ -34,4 +32,4 @@ Aquí está su foto al estilo *Studio Ghibli*:
 
 ## 📧 Contact  
 - **Web:** [cobos.io](https://www.cobos.io)  
-- **LinkedIn:** [Ernesto Cobos](https://www.linkedin.com/in/ernestocobos/) 
+- **LinkedIn:** [Ernesto Cobos](https://www.linkedin.com/in/ernestocobos/)
