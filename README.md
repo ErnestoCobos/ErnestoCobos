@@ -1,6 +1,7 @@
 # Hi, I'm Ernesto Cobos ✨  
 <img src="image.png" alt="Katun Banner" style="width:100%; max-height:200px; object-fit:cover;">  
-![Profile views](https://komarev.com/ghpvc/?username=ErnestoCobos&style=flat-square)  
+
+![Profile views](https://komarev.com/ghpvc/?username=ErnestoCobos&style=flat-square)
   
 Hello! I'm a self‑taught developer from México 🇲🇽 who later completed a degree in Software Engineering. Today I balance my time between working as a **DevSecOps** engineer at **Ford**, where I help secure and automate complex systems, and leading **VoltaFlow**, my own company focused on building applications and infrastructure that empower businesses to grow.  
   
