@@ -23,6 +23,7 @@ Terraform · Ansible · Bash · Python · JavaScript/TypeScript · Next.js · Su
 ### 📊 GitHub Stats  
 ![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErnestoCobos&show_icons=true&hide_rank=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoCobos&layout=compact)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErnestoCobos)  
   
 ### 📧 Contact  
 - **Web:** [cobos.io](https://www.cobos.io)  
