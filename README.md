@@ -1,8 +1,10 @@
 # Hi, I'm Ernesto Cobos 👋  
-Self‑taught full‑stack & infrastructure developer from México 🇲🇽 working on VoltaFlow & CMI.  
+Self‑taught full‑stack & infrastructure developer from México 🇲🇽 currently working at Ford and building applications at my own company, VoltaFlow.  
 
 ## 🌐 About Me  
-- 🔬 Currently building infrastructure at **VoltaFlow** and developing **CMI**, a dog registry system.  
+- 🔧 By day, I work at **Ford**, where I'm involved in developing and maintaining software solutions.  
+- 🚀 I'm the founder of **VoltaFlow**, a company that builds applications and software for businesses.  
+- 🕒 I created **Enkiflow**, a time‑tracking application to help teams manage their hours efficiently. Check it out at [enkiflow.com](https://www.enkiflow.com).  
 - 🧠 Passionate about code, automation, design, and agriculture.  
 - 🌱 Always learning new technologies and frameworks.  
 
@@ -13,11 +15,10 @@ Terraform · Ansible · Bash · Python · JavaScript / TypeScript · Next.js · 
 - **[CMI](https://github.com/ErnestoCobos/cmi)** – Automatic CMI number generation & dog approval workflow.  
 - **[VoltaFlow](https://github.com/ErnestoCobos/voltaflow)** – Marketing site & infrastructure-as-code for the VoltaFlow platform.  
 - **[DevOps](https://github.com/ErnestoCobos/DevOps)** – Infrastructure repository using Terraform, Ansible, Bash, JS/TS & Python.  
-- **[Enkiflow Timesheet](https://github.com/ErnestoCobos/enkiflow-timesheet)** – Timesheet management built with Next.js & Supabase.  
+- **[Enkiflow](https://github.com/ErnestoCobos/enkiflow-timesheet)** – Time-tracking app built with Next.js & Supabase, also available at [enkiflow.com](https://www.enkiflow.com).  
 
 ## 📺 Video  
 [![Conóceme en 2 minutos](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
-
 *Replace `VIDEO_ID` with your YouTube video ID to link to your introduction or project demo.*  
 
 ## 📊 GitHub Stats  
@@ -27,4 +28,4 @@ Terraform · Ansible · Bash · Python · JavaScript / TypeScript · Next.js · 
 ## 📧 Contact  
 - **Web:** [cobos.io](https://www.cobos.io)  
 - **LinkedIn:** [Your LinkedIn profile]  
-- **Twitter:** [Your Twitter handle]
+- **Twitter:** [Your Twitter handle] 
