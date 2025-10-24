@@ -1,35 +1,29 @@
 # Hi, I'm Ernesto Cobos ✨  
-![Katun](image.png)  
 
-Self‑taught full‑stack & infrastructure developer from México 🇲🇽 currently working at Ford and building applications at my own company, VoltaFlow.  
+<img src="image.png" alt="Katun Banner" style="width:100%; max-height:200px; object-fit:cover;">  
 
-## 🌐 About Me  
-- 🔧 By day, I work at **Ford**, where I'm involved in developing and maintaining software solutions.  
-- 🚀 I'm the founder of **VoltaFlow**, a company that builds applications and software for businesses.  
-- 🕘 I created **Enkiflow**, a time‑tracking application to help teams manage their hours efficiently. Check it out at [enkiflow.com](https://www.enkiflow.com).  
-- 🤓 Passionate about code, automation, design, and agriculture.  
-- 🌱 Always learning new technologies and frameworks.  
+Hello! I'm a self‑taught full‑stack and infrastructure developer from México 🇲🇽. My journey into code began with curiosity and a desire to solve real problems. Over the years, that curiosity has evolved into a passion for building reliable systems and delightful products.  
 
-## 😠 Tech Stack  
-Terraform · Ansible · Bash · Python · JavaScript / TypeScript · Next.js · Supabase · Google Cloud Build · Vercel  
+### 🌟 A story about building things  
+I started writing scripts and automations to make my own life easier. Those small tools sparked a hunger to learn more—about cloud infrastructure, modern web frameworks, and the art of creating great user experiences. Today, I split my time between working at **Ford**, where I help develop and maintain software solutions that impact millions of people, and running **VoltaFlow**, a company I founded to craft applications and infrastructure for businesses who want to scale.  
 
-## 🚀 Projects  
-- **[CMI](https://github.com/ErnestoCobos/cmi)** – Automatic CMI number generation & dog approval workflow.  
-- **[VoltaFlow](https://github.com/ErnestoCobos/voltaflow)** – Marketing site & infrastructure-as-code for the VoltaFlow platform.  
-- **[DevOps](https://github.com/ErnestoCobos/DevOps)** – Infrastructure repository using Terraform, Ansible, Bash, JS/TS & Python.  
-- **[Enkiflow](https://github.com/ErnestoCobos/enkiflow-timesheet)** – Time‑tracking app built with Next.js & Supabase, also available at [enkiflow.com](https://www.enkiflow.com).  
+Along the way, I built **Enkiflow**, a time‑tracking application designed to help teams stay on top of their hours and projects. The idea came from my own need for a simple yet powerful tool to organise work. Now it's available for anyone at [enkiflow.com](https://www.enkiflow.com).  
 
-## 📺 Video  
-[![Conóceme en 2 minutos](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
-*Replace `VIDEO_ID` with your YouTube video ID to link to your introduction or project demo.*  
+I'm driven by an obsession for learning—whether it's exploring new programming languages, experimenting with DevOps tools, or diving into areas like design and even agriculture. I believe that great products come from the intersection of technology and human insight, and I'm always looking for new ways to make that intersection shine.  
 
-## 💾 About Katun  
-Soy papá de un **xoloitzcuintle** llamado **Katun**, a quien quiero muchísimo. Me inspira a trabajar duro y disfrutar la vida.  
+### 🧰 Tech Stack  
+Terraform · Ansible · Bash · Python · JavaScript/TypeScript · Next.js · Supabase · Google Cloud Build · Vercel  
 
-## 📊 GitHub Stats  
+### 🚀 Projects  
+- **[CMI](https://github.com/ErnestoCobos/cmi)** — Automatic CMI number generation & dog approval workflow.  
+- **[VoltaFlow](https://github.com/ErnestoCobos/voltaflow)** — Marketing site & infrastructure‑as‑code for the VoltaFlow platform.  
+- **[DevOps](https://github.com/ErnestoCobos/DevOps)** — Infrastructure repository using Terraform, Ansible, Bash, JS/TS & Python.  
+- **[Enkiflow](https://github.com/ErnestoCobos/enkiflow-timesheet)** — Time‑tracking app built with Next.js & Supabase, also available at [enkiflow.com](https://www.enkiflow.com).  
+
+### 📊 GitHub Stats  
 ![Ernesto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErnestoCobos&show_icons=true&hide_rank=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoCobos&layout=compact)  
 
-## 📧 Contact  
+### 📧 Contact  
 - **Web:** [cobos.io](https://www.cobos.io)  
 - **LinkedIn:** [Ernesto Cobos](https://www.linkedin.com/in/ernestocobos/) 
