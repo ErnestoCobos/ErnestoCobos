@@ -2,6 +2,8 @@
 
 <img src="image.png" alt="Katun Banner" style="width:100%; max-height:200px; object-fit:cover;">  
 
+![Profile views](https://komarev.com/ghpvc/?username=ErnestoCobos&style=flat-square)  
+
 Hello! I'm a self‑taught full‑stack and infrastructure developer from México 🇲🇽. My journey into code began with curiosity and a desire to solve real problems. Over the years, that curiosity has evolved into a passion for building reliable systems and delightful products.  
 
 ### 🌟 A story about building things  
