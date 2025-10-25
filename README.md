@@ -5,12 +5,23 @@
 
 Hello! I'm a self -taught developer from México 🇲🇽 who later completed a degree in Software Engineering. Today I balance my time between working as a DevSecOps engineer at Ford, where I help secure and automate complex systems, and leading VoltaFlow, my own company focused on building applications and infrastructure that empower businesses to grow.  
 
-## ✯️ A story about building things  
-My journey into code began by writing small scripts and automations to solve my own problems. Those first tools sparked a hunger to learn more—about cloud infrastructure, modern web frameworks, and the art of creating great user experiences. Over the years that curiosity has evolved into a passion for building reliable systems and delightful products.  
+## ✯️ A story about building things
 
-Along the way, I built Enkiflow, a time tracking application designed to help teams stay on top of their hours and projects. The idea came from my own need for a simple yet powerful tool to organise work. Now it's available for anyone at [enkiflow.com](https://www.enkiflow.com).  
+My journey into technology began as a **hobby back in high school**, though its roots go much deeper.  
+When I was a kid, my father introduced me to computers — our first one was a **Cyrix 6x86**, where he taught me how to write small programs in **BASIC**. Those nights exploring old systems together sparked a lifelong curiosity in me.
 
-I'm always learning—whether it's exploring new programming languages, experimenting with DevOps and DevSecOps tools, or diving into areas like design and even agriculture. I believe that great products come from the intersection of technology and human insight, and I'm always looking for new ways to make that intersection shine.  
+Over time, that curiosity turned into passion. I moved from **Windows** to **Linux**, experimenting with distributions like **Red Hat**, **Mandriva**, **Knoppix**, and even **Solaris**, just to understand how a true Unix felt under the hood. I loved breaking things apart, learning how they worked, and then putting them back together again — better than before.
+
+To support my studies, I worked in **IT and network administration**, learning by doing, failing, and rebuilding. Eventually, that experience led me to earn my **Software Engineering degree**.  
+Around the same time, I joined the **Debian community**, contributing to open-source projects like **Conky**, and discovering how collaboration and code can truly shape the world.
+
+Today, I work as a **DevSecOps Engineer** at a multinational company, helping to **secure and automate complex systems**.  
+I also lead my own company, **VoltaFlow**, where I build tools and infrastructure that empower others — including **[Enkiflow](https://www.enkiflow.com/)**, a time-tracking app born from my own need for focus and simplicity at work.
+
+What started as a hobby became my purpose.  
+And even now, every line of code I write carries the same excitement I felt sitting next to my dad, exploring that old Cyrix computer — realizing that technology is more than machines; it’s about **creation, connection, and impact**.
+
+
 
 ## 💻 Tech Stack  
 
