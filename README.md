@@ -1,5 +1,5 @@
 # Hi, I'm Ernesto Cobos ✨  
-<img src="image.png" alt="Katun Banner" style="width:100%; max-height:230px; object-fit:cover;">  
+<img src="banner.jpg" alt="Katun Banner" style="width:100%; max-height:230px; object-fit:cover;">  
 
 ![Profile views](https://komarev.com/ghpvc/?username=ErnestoCobos&style=flat-square)  
 
