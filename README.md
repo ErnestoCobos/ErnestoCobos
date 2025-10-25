@@ -16,9 +16,11 @@ To support my studies, I worked in **IT and network administration**, learning b
 Around the same time, I joined the **Debian community**, contributing to open-source projects like **Conky**, and discovering how collaboration and code can truly shape the world.
 
 Today, I work as a **DevSecOps Engineer** at a multinational company, helping to **secure and automate complex systems**.  
+
 I also lead my own company, **VoltaFlow**, where I build tools and infrastructure that empower others — including **[Enkiflow](https://www.enkiflow.com/)**, a time-tracking app born from my own need for focus and simplicity at work.
 
-What started as a hobby became my purpose.  
+What started as a hobby became my purpose.
+
 And even now, every line of code I write carries the same excitement I felt sitting next to my dad, exploring that old Cyrix computer — realizing that technology is more than machines; it’s about **creation, connection, and impact**.
 
 
