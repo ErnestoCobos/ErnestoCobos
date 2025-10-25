@@ -8,6 +8,7 @@ Hello! I'm a self -taught developer from México 🇲🇽 who later completed 
 ## ✯️ A story about building things
 
 My journey into technology began as a **hobby back in high school**, though its roots go much deeper.  
+
 When I was a kid, my father introduced me to computers — our first one was a **Cyrix 6x86**, where he taught me how to write small programs in **BASIC**. Those nights exploring old systems together sparked a lifelong curiosity in me.
 
 Over time, that curiosity turned into passion. I moved from **Windows** to **Linux**, experimenting with distributions like **Red Hat**, **Mandriva**, **Knoppix**, and even **Solaris**, just to understand how a true Unix felt under the hood. I loved breaking things apart, learning how they worked, and then putting them back together again — better than before.
