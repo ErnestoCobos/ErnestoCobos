@@ -66,7 +66,7 @@ And even now, every line of code I write carries the same excitement I felt sitt
 - [**Enkiflow**](https://github.com/ErnestoCobos/enkiflow-timesheet) — Time‑tracking app built with Next.js & Supabase, also available at [enkiflow.com](https://www.enkiflow.com).  
 
 ## 📊 GitHub Stats  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErnestoCobos&show_icons=true&hide_rank=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoCobos&layout=compact) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErnestoCobos) |  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErnestoCobos&show_icons=true&hide_rank=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoCobos&layout=compact) 
 
 ## 📧 Contact  
 [![Website](https://img.shields.io/badge/Website-cobos.io-000?style=flat-square&logo=globe&logoColor=white)](https://www.cobos.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ernesto%20Cobos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernestocobos/) 
